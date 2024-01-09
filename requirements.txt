@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+Pillow
+matplotlib
+plotly
+pydub
+scipy
+scikit-learn
+streamlit_lottie
